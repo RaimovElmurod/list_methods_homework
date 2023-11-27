@@ -7,4 +7,5 @@ def main(fruits1, fruits2):
     Returns:
         list: return answer
     """
-    return
+    return fruits2+fruits1
+print(main(["apple", "banana"],["kiwi", "pear"]))
